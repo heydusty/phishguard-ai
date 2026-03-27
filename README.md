@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![ML](https://img.shields.io/badge/ML-Scikit--Learn-orange?logo=scikit-learn)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/phishguard-ai?style=social)
 ![Forks](https://img.shields.io/github/forks/YOUR_USERNAME/phishguard-ai?style=social)
 ![Issues](https://img.shields.io/github/issues/YOUR_USERNAME/phishguard-ai)
 
